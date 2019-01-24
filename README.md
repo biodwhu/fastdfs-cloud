@@ -56,23 +56,23 @@ biod lab, distributed file storage
 
 ```json
 {
-	"code":200,
-	"msg":"查询成功",
+    "code":200,
+    "msg":"查询成功",
     "data":[
         {
             "file_id":"xfasdfasdfsadfasdf",
             "file_url":"http://xxxx/group1/xxdasfasdfasdf",
-            "file_time":"2019-01-24 09:59:59",
+            "file_time":"2019-01-24 09:59:59"
         },
         {
             "file_id":"xfasdfasdfsadfasdf",
             "file_url":"http://xxxx/group1/xxdasfasdfasdf",
-            "file_time":"2019-01-24 09:59:59",
+            "file_time":"2019-01-24 09:59:59"
         },
         {
             "file_id":"xfasdfasdfsadfasdf",
             "file_url":"http://xxxx/group1/xxdasfasdfasdf",
-            "file_time":"2019-01-24 09:59:59",
+            "file_time":"2019-01-24 09:59:59"
         }
     ]
 }
