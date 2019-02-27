@@ -6,7 +6,7 @@ biod lab, distributed file storage
 
 ## 用户注册
 
-请求地址：http://file.biodwhu.cn/register
+请求地址：http://file.biodwhu.cn/fastdfs/register
 
 请求类型：GET
 
